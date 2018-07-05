@@ -4,7 +4,7 @@ from glob import glob
 import argparse
 from helpers import *
 from matplotlib import pyplot as plt 
-
+#Rene Simon
 
 class BOV:
     def __init__(self, no_clusters):
